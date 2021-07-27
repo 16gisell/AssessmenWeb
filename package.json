@@ -1,0 +1,26 @@
+{
+  "name": "assessesmentweb",
+  "version": "1.0.0",
+  "description": "prueba-test tecnico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=development nodemon src/index.js "
+  },
+  "author": "GissHernandez/gisell-hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "loader": "^2.1.1",
+    "mongoose": "^5.13.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "promise": "^8.1.0"
+  },
+  "devDependencies": {
+    "url-loader": "^4.1.1"
+  }
+}
