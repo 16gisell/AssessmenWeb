@@ -25,5 +25,7 @@ El siguiente proyecto cumple con la finalidad de cumplir con test de prueba.
 <h6>comandos de instalacion</h6>
     <li>npm run install  -> instalara los paquetes de node que requiere el proyecto</li>
     <li>npm run dev -> ejecutara el server del proyecto</li>
-    
+
+<h6>Rutas de vista </h6>
+    <li>npm run dev redireccionara al puerto 3000 rura para visualizar las vistas http://localhost:3000/ y podras recorrer dinamicamente las vistas</li>    
 </p>

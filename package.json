@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "cross-env NODE_ENV=development nodemon src/index.js "
+    "dev": "cross-env NODE_ENV=development nodemon src/index.js",
+    "serve": " node src/views/index.html "
   },
   "author": "GissHernandez/gisell-hernandez",
   "license": "ISC",
